@@ -1,0 +1,14 @@
+{
+  "name": "rnsell-util-repository",
+  "version": "1.0.0",
+  "description": "Contains the class for a repository that inherits functionality from the event emitter class.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rnsell",
+  "license": "ISC",
+  "dependencies": {
+    "node-uuid": "^1.4.3"
+  }
+}
